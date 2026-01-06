@@ -41,4 +41,4 @@ This repository documents the resolution of the **Hack The Box (HTB) Starting Po
 
 ## 📄 Full Report
 You can view the detailed step-by-step PDF report here:
-[Download Full Pentest Report (PDF)](AQUI_PONES_EL_ENLACE_A_TU_PDF_DENTRO_DEL_REPO)
+[Download Full Pentest Report (PDF)](https://github.com/nazrtech/Ethical-Hacking-Lab-Reports/blob/main/HTB_Starting_Point_Report_Rhogell.pdf)
